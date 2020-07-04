@@ -1,62 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>T A K</title>
+  <title>Hexo</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-26T11:20:30.533Z</updated>
+  <updated>2020-07-04T08:02:29.588Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>takdoor</name>
+    <name>T A K</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>标准C++中的string类的用法总结</title>
-    <link href="http://yoursite.com/2020/04/26/biao-zhun-c-zhong-de-string-lei-de-yong-fa-zong-jie/"/>
-    <id>http://yoursite.com/2020/04/26/biao-zhun-c-zhong-de-string-lei-de-yong-fa-zong-jie/</id>
-    <published>2020-04-26T11:08:17.000Z</published>
-    <updated>2020-04-26T11:20:30.533Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;写这篇博客只是为了我方便查找&lt;/p&gt;
-&lt;p&gt;string类的构造函数：&lt;/p&gt;
-&lt;p&gt;string(const char *s);    //用c字符串s初始化&lt;br&gt;string(int n,char c);    
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>关于我搭建个人博客的流程及一些问题</title>
     <link href="http://yoursite.com/2019/12/07/guan-yu-wo-da-jian-ge-ren-bo-ke-de-liu-cheng-ji-yi-xie-wen-ti/"/>
     <id>http://yoursite.com/2019/12/07/guan-yu-wo-da-jian-ge-ren-bo-ke-de-liu-cheng-ji-yi-xie-wen-ti/</id>
     <published>2019-12-07T09:36:53.000Z</published>
-    <updated>2019-12-07T12:33:08.544Z</updated>
+    <updated>2020-07-04T08:02:29.588Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;因为我是一个弱鸡新生，在这方面更是一个小白，但是我也想把博客玩起来。所以我找了很多资料，看了很多视频。终于在B站UP  
-        
-      
+      &lt;h1 id=&quot;关于我搭建个人博客的流程及一些问题&quot;&gt;&lt;a href=&quot;#关于我搭建个人博客的流程及一些问题&quot; class=&quot;headerlink&quot; title=&quot;关于我搭建个人博客的流程及一些问题&quot;&gt;&lt;/a&gt;关于我搭建个人博客的流程及一些问题&lt;/h1&gt;
     
     </summary>
     
